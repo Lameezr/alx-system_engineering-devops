@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod usg+x o+r
